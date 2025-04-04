@@ -7,7 +7,7 @@ This MCP server interacts with the Brandfetch API and handles API credentials.
 If you discover a security vulnerability in this project, please follow these steps:
 
 1. **Do not disclose the vulnerability publicly** via GitHub issues or discussions
-2. Email the project maintainer directly at [security@example.com](mailto:security@example.com) with:
+2. Email the project maintainer directly with:
    - A description of the vulnerability
    - Steps to reproduce
    - Potential impact
